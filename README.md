@@ -68,4 +68,4 @@
 
 더 궁금한 점이 있거나 문의 사항이 있으면 연락주세요!
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=ff9945&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=fee774&height=200&section=footer)
