@@ -1,4 +1,4 @@
-# greenTeaFrappe
+# KimMinjin
 ![header](https://capsule-render.vercel.app/api?type=waving&color=fee774&fontColor=FFFFFF&height=300&section=header&text=Minjin's%20Hub😺&fontSize=50)
 
 # KimMinjin's repository
@@ -11,7 +11,7 @@
 ## 📫 연락처
 
 - 이메일: [jk008532@gmail.com](jk008532@gmail.com)
-- GitHub: [greenTeaFrappe](https://github.com/greenTeaFrappe)
+- GitHub: [KimMinjin](https://github.com/greenTeaFrappe)
 
 ## 🔧 기술 스택
 
